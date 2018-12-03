@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "name": "py_js_200",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ben-vandelaar <benvandelaar@gmail.com>",
+  "license": "MIT"
+}
